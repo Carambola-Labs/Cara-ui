@@ -49,8 +49,11 @@ export default function Example() {
                 />
                 <select className="selected-from">
                   <option>MATIC</option>
-                  <option>USDT</option>
-                  <option>DAI</option>
+                  <option>ETH</option>
+                  <option>ONE</option>
+                  <option>CLV</option>
+                  <option>MORV</option>
+                  <option>SKL</option>
                 </select>
               </div>
               <div>
